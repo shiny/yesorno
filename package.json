@@ -1,0 +1,7 @@
+{
+  "name": "yesorno",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "^1.0.4"
+  }
+}
